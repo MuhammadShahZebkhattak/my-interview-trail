@@ -1,0 +1,27 @@
+[
+  {
+    "id": "p-101",
+    "title": "React Performance Audit",
+    "description": "Profile key screens, identify render bottlenecks, and ship component-level optimizations."
+  },
+  {
+    "id": "p-102",
+    "title": "UI Accessibility Check",
+    "description": "Review contrast, keyboard navigation, and semantic structure for major dashboard sections."
+  },
+  {
+    "id": "p-103",
+    "title": "Test Coverage Expansion",
+    "description": "Add missing unit tests for state actions and API error handling states."
+  },
+  {
+    "id": "p-104",
+    "title": "Animation Polish",
+    "description": "Refine transitions and micro-interactions for cards, progress bars, and panel updates."
+  },
+  {
+    "id": "p-105",
+    "title": "Leaderboard Insights Widget",
+    "description": "Design a compact analytics module showing movement trends and score deltas."
+  }
+]
